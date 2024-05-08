@@ -3,7 +3,7 @@
   <img src="https://allenai.org/olmo/olmo-7b-animation.gif" alt="OLMo Logo" width="800" style="margin-left:'auto' margin-right:'auto' display:'block'"/>
   <br>
   <br>
-  <h1>OLMo: Open Language Model</h1>
+  <h1><a href="https://allenai.org/olmo">OLMo</a>: Open Language Model</h1>
 </div>
 <p align="center">
   <a href="https://github.com/allenai/OLMo/blob/main/LICENSE">
