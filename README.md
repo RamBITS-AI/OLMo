@@ -17,7 +17,7 @@
   </a>
 </p>
 
-OLMo is a repository for training and using AI2's state-of-the-art open language models. 
+[OLMo](https://allenai.org/olmo) is a repository for training and using AI2's state-of-the-art open language models. 
 It is built by scientists, for scientists.
 
 ## Installation
